@@ -1,0 +1,4 @@
+tkinter
+ttkthemes
+mutagen
+pygame
